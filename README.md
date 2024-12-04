@@ -6,11 +6,11 @@ Ce projet est une application web développée avec Symfony, intégrant des comp
 
 Symfony
 
-React
+React "just starting it LOL" 
 
 Webpack Encore
 
-TailwindCSS
+TailwindCSS "just starting it LOL" 
 
 Doctrine : ORM
 
@@ -42,5 +42,8 @@ npm run dev
 
 -----------------------------------lancer le serveur--------------------------------
 
-symfony serve -d
+symfony server:start
+
+https://127.0.0.1:8000/categorie
+https://127.0.0.1:8000/produit
 
